@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "user_admin_001",
+    "username": "System Admin",
+    "email": "admin@bookstore.com",
+    "passwordHash": "$2b$10$quBUNS4MP9TYtGCAS.mSO.1XcUSjxrjWDzwR.z2cWHq2DGMyOjdqS",
+    "role": "admin",
+    "createdAt": "2026-05-25T07:01:07.900Z"
+  },
+  {
+    "_id": "user_regular_002",
+    "username": "Raunak Sarkar",
+    "email": "user@bookstore.com",
+    "passwordHash": "$2b$10$qU9KIZ4.XJmiHw0kHR5/Yu8D6tWfL2L62OdQ/e3f1Czo54uEgQm9e",
+    "role": "user",
+    "createdAt": "2026-05-25T07:01:08.182Z"
+  }
+]
