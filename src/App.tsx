@@ -1322,7 +1322,7 @@ function MainBookstore() {
                   placeholder="e.g. Raunak Sarkar"
                   value={authUsername}
                   onChange={(e) => setAuthUsername(e.target.value)}
-                  className="w-full bg-neutral-100 dark:bg-zinc-900 border border-neutral-200 dark:border-zinc-800 rounded-xl py-2 px-3 text-xs"
+                  className="w-full bg-white dark:bg-white border border-neutral-300 dark:border-neutral-300 rounded-xl py-2 px-3 text-xs text-neutral-900 dark:text-neutral-900 font-medium focus:ring-2 focus:ring-gold focus:outline-none"
                 />
               </div>
 
@@ -1334,7 +1334,7 @@ function MainBookstore() {
                   placeholder="name@domain.com"
                   value={authEmail}
                   onChange={(e) => setAuthEmail(e.target.value)}
-                  className="w-full bg-neutral-100 dark:bg-zinc-900 border border-neutral-200 dark:border-zinc-800 rounded-xl py-2 px-3 text-xs"
+                  className="w-full bg-white dark:bg-white border border-neutral-300 dark:border-neutral-300 rounded-xl py-2 px-3 text-xs text-neutral-900 dark:text-neutral-900 font-medium focus:ring-2 focus:ring-gold focus:outline-none"
                 />
               </div>
 
@@ -1346,7 +1346,7 @@ function MainBookstore() {
                   placeholder="Min 6 characters"
                   value={authPassword}
                   onChange={(e) => setAuthPassword(e.target.value)}
-                  className="w-full bg-neutral-100 dark:bg-zinc-900 border border-neutral-200 dark:border-zinc-800 rounded-xl py-2 px-3 text-xs"
+                  className="w-full bg-white dark:bg-white border border-neutral-300 dark:border-neutral-300 rounded-xl py-2 px-3 text-xs text-neutral-900 dark:text-neutral-900 font-medium focus:ring-2 focus:ring-gold focus:outline-none"
                 />
               </div>
 
@@ -1391,7 +1391,7 @@ function MainBookstore() {
                   placeholder="admin@bookstore.com or user@bookstore.com"
                   value={authEmail}
                   onChange={(e) => setAuthEmail(e.target.value)}
-                  className="w-full bg-neutral-100 dark:bg-zinc-900 border border-neutral-200 dark:border-zinc-800 rounded-xl py-2 px-3 text-xs"
+                  className="w-full bg-white dark:bg-white border border-neutral-300 dark:border-neutral-300 rounded-xl py-2 px-3 text-xs text-neutral-900 dark:text-neutral-900 font-medium focus:ring-2 focus:ring-gold focus:outline-none"
                 />
               </div>
 
@@ -1403,7 +1403,7 @@ function MainBookstore() {
                   placeholder="admin123 or user123"
                   value={authPassword}
                   onChange={(e) => setAuthPassword(e.target.value)}
-                  className="w-full bg-neutral-100 dark:bg-zinc-900 border border-neutral-200 dark:border-zinc-800 rounded-xl py-2 px-3 text-xs"
+                  className="w-full bg-white dark:bg-white border border-neutral-300 dark:border-neutral-300 rounded-xl py-2 px-3 text-xs text-neutral-900 dark:text-neutral-900 font-medium focus:ring-2 focus:ring-gold focus:outline-none"
                 />
               </div>
 
