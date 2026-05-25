@@ -1,0 +1,6 @@
+{
+  "name": "yourbookstore",
+  "description": "A premium modern online bookstore featuring smart search, AI-powered book recommendations, personalized discovery, full checkout with dynamic invoice generation, and a robust admin inventory system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
