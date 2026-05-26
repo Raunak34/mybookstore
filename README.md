@@ -1,4 +1,4 @@
-
+It's just a simple website with some AI features like recommended search, favourite watchlist, etc.
 
 This contains everything you need to run your app locally.
 
